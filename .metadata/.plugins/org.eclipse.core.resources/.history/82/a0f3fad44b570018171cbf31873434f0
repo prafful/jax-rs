@@ -1,0 +1,11 @@
+package com.jersey.helloworld;
+
+import javax.ws.rs.Path;
+
+@Path("/cts")
+public class HelloJersey {
+	
+	
+	
+
+}
