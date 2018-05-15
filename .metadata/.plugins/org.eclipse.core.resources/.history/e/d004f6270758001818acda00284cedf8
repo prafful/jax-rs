@@ -1,0 +1,5 @@
+package com.jersey.first.restapi;
+
+public class JerseyHelloWorld {
+
+}

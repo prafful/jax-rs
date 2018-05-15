@@ -1,0 +1,15 @@
+package com.jersey.first.restapi;
+
+import javax.ws.rs.Path;
+
+@Path("/first")
+public class JerseyHelloWorld {
+
+	
+	
+	public String welcome(){
+		return "hello from NEW jersey";
+	}
+	
+	
+}

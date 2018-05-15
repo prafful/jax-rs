@@ -58,3 +58,21 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 !ENTRY org.eclipse.core.net 4 0 2018-05-15 11:16:01.215
 !MESSAGE WinHttp.DetectAutoProxyConfigUrl for wpad failed with error 'The Proxy Auto-configuration URL was not found.
 ' #12180.
+
+!ENTRY org.eclipse.jface.text 2 0 2018-05-15 11:30:19.601
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-05-15 11:30:19.624
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-05-15 11:32:47.381
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-05-15 11:32:47.382
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-05-15 11:43:08.866
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-05-15 11:43:08.867
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
