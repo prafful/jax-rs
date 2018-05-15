@@ -1,0 +1,43 @@
+package com.jersey.friends.controller;
+
+import java.util.List;
+
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.MediaType;
+
+import com.jersey.friends.service.FriendsCollectionService;
+
+@Path("/friends")
+public class FriendsController {
+	
+	FriendsCollectionService friendsCollectionService = new FriendsCollectionService();
+	
+	//CRUD for friends
+	
+	//get the list of all friends
+	@GET
+	@Path("/getall")
+	@Produces(MediaType.TEXT_PLAIN)
+	public String getAllFriends(){
+		List allfriends = friendsCollectionService.getAllFriends();
+		return allfriends.toString();
+	}
+	
+	//get the name of friend by id
+	public void getFriendById(){
+		
+	}
+	
+	//update the friend
+	public void updateFriend(){
+		
+	}
+	
+	//delete the friend
+	public void deleteFriend(){
+		
+	}
+
+}

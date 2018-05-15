@@ -1,0 +1,7 @@
+package com.jersey.friends.pojo;
+
+public class Friend {
+	
+	public string name;
+
+}

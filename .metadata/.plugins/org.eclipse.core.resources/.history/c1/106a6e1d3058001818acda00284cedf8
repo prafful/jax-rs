@@ -1,0 +1,10 @@
+package com.jersey.friends.controller;
+
+public class FriendsController {
+	
+	//CRUD for friends
+	
+	
+	
+
+}

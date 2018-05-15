@@ -1,0 +1,17 @@
+package com.jersey.friends.controller;
+
+public class FriendsController {
+	
+	//CRUD for friends
+	
+	//get the list of all friends
+	public void getAllFriends(){
+		
+	}
+	
+	//get the name of friend by id
+	public void getFriendById(){
+		
+	}
+
+}

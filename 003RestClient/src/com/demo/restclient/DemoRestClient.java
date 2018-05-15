@@ -23,9 +23,7 @@ public class DemoRestClient {
 		
 		WebTarget webTarget = client.target(getCustomURI());
 		
-		String response = webTarget.path("rest")
-									.path("first")
-									.path("welcome")
+		String response = webTarget.path("rest").path("first").path("welcome")
 									.request()
 									.accept(MediaType.TEXT_PLAIN)
 									.get(Response.class)
@@ -33,20 +31,13 @@ public class DemoRestClient {
 		
 		System.out.println(response);
 		
-		String message = webTarget.path("rest")
-									.path("first")
-									.path("welcome")
+		String message = webTarget.path("rest").path("first").path("welcome")
 									.request()
 									.accept(MediaType.TEXT_PLAIN)
 									.get(String.class)
 									.toString();
-		
-		System.out.println(message);
-		
-		
-		
+	System.out.println(message);
 	}
-
 	private static URI getCustomURI() {
 		// TODO Auto-generated method stub
 		

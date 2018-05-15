@@ -76,3 +76,6 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.jface.text 2 0 2018-05-15 11:43:08.867
 !MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-05-15 17:21:51.234
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/jersey-media-json-jackson-2.27.jar. May be locked by another process.
