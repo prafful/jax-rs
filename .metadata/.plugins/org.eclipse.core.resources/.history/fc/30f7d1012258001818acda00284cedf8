@@ -1,0 +1,22 @@
+package com.demo.restclient;
+
+import javax.ws.rs.client.Client;
+import javax.ws.rs.client.ClientBuilder;
+
+import org.glassfish.jersey.client.ClientConfig;
+
+public class DemoRestClient {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//System.out.println("I will upgrade to rest client");
+		
+		ClientConfig config = new ClientConfig();
+		
+		Client client = ClientBuilder.newClient(config);
+		
+		
+		
+	}
+
+}

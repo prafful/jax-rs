@@ -13,7 +13,7 @@ public class JerseyHelloWorld {
 	@Path("/welcome")
 	@Produces(MediaType.TEXT_PLAIN)
 	public String welcome(){
-		return "hello from NEW jersey";
+		return "hello to restclient from NEW jersey";
 	}
 	
 	
