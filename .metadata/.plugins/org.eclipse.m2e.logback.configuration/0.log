@@ -1,0 +1,146 @@
+2018-05-16 10:46:13,654 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:RESTfulExample:1.0-SNAPSHOT @ C:\Users\Pradhi\workspace-jee-neon3_MAY2018\RESTfulExample\pom.xml.
+2018-05-16 10:46:15,886 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/junit/junit/4.8.2/junit-4.8.2.pom
+2018-05-16 10:46:17,857 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.8.2/junit-4.8.2.pom
+2018-05-16 10:46:18,530 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.8.2/junit-4.8.2.pom
+2018-05-16 10:46:20,417 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/com/sun/jersey/jersey-server/1.8/jersey-server-1.8.pom
+2018-05-16 10:46:20,762 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/1.8/jersey-server-1.8.pom
+2018-05-16 10:46:21,281 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/1.8/jersey-server-1.8.pom
+2018-05-16 10:46:23,453 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/com/sun/jersey/jersey-project/1.8/jersey-project-1.8.pom
+2018-05-16 10:46:23,797 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/jersey/jersey-project/1.8/jersey-project-1.8.pom
+2018-05-16 10:46:24,609 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/jersey/jersey-project/1.8/jersey-project-1.8.pom
+2018-05-16 10:46:26,464 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/asm/asm/3.1/asm-3.1.pom
+2018-05-16 10:46:26,816 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/asm/asm/3.1/asm-3.1.pom
+2018-05-16 10:46:27,192 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/asm/asm/3.1/asm-3.1.pom
+2018-05-16 10:46:29,046 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/asm/asm-parent/3.1/asm-parent-3.1.pom
+2018-05-16 10:46:29,400 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/asm/asm-parent/3.1/asm-parent-3.1.pom
+2018-05-16 10:46:29,756 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/asm/asm-parent/3.1/asm-parent-3.1.pom
+2018-05-16 10:46:31,694 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/com/sun/jersey/jersey-core/1.8/jersey-core-1.8.pom
+2018-05-16 10:46:32,035 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/jersey/jersey-core/1.8/jersey-core-1.8.pom
+2018-05-16 10:46:32,409 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/jersey/jersey-core/1.8/jersey-core-1.8.pom
+2018-05-16 10:46:34,528 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/com/sun/jersey/jersey-json/1.8/jersey-json-1.8.pom
+2018-05-16 10:46:34,868 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/jersey/jersey-json/1.8/jersey-json-1.8.pom
+2018-05-16 10:46:35,244 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/jersey/jersey-json/1.8/jersey-json-1.8.pom
+2018-05-16 10:46:36,992 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/org/codehaus/jettison/jettison/1.1/jettison-1.1.pom
+2018-05-16 10:46:37,330 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jettison/jettison/1.1/jettison-1.1.pom
+2018-05-16 10:46:37,679 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jettison/jettison/1.1/jettison-1.1.pom
+2018-05-16 10:46:39,518 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.pom
+2018-05-16 10:46:39,858 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.pom
+2018-05-16 10:46:40,195 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.pom
+2018-05-16 10:46:42,067 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.pom
+2018-05-16 10:46:42,414 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.pom
+2018-05-16 10:46:42,790 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.pom
+2018-05-16 10:46:44,826 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/javax/activation/activation/1.1/activation-1.1.pom
+2018-05-16 10:46:45,162 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/activation/activation/1.1/activation-1.1.pom
+2018-05-16 10:46:45,511 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/activation/activation/1.1/activation-1.1.pom
+2018-05-16 10:46:48,254 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/org/codehaus/jackson/jackson-core-asl/1.7.1/jackson-core-asl-1.7.1.pom
+2018-05-16 10:46:48,594 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.7.1/jackson-core-asl-1.7.1.pom
+2018-05-16 10:46:48,951 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.7.1/jackson-core-asl-1.7.1.pom
+2018-05-16 10:46:50,721 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/org/codehaus/jackson/jackson-mapper-asl/1.7.1/jackson-mapper-asl-1.7.1.pom
+2018-05-16 10:46:51,061 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.7.1/jackson-mapper-asl-1.7.1.pom
+2018-05-16 10:46:51,414 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.7.1/jackson-mapper-asl-1.7.1.pom
+2018-05-16 10:46:53,293 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/org/codehaus/jackson/jackson-jaxrs/1.7.1/jackson-jaxrs-1.7.1.pom
+2018-05-16 10:46:53,629 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-jaxrs/1.7.1/jackson-jaxrs-1.7.1.pom
+2018-05-16 10:46:53,973 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-jaxrs/1.7.1/jackson-jaxrs-1.7.1.pom
+2018-05-16 10:46:55,683 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/org/codehaus/jackson/jackson-xc/1.7.1/jackson-xc-1.7.1.pom
+2018-05-16 10:46:56,025 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-xc/1.7.1/jackson-xc-1.7.1.pom
+2018-05-16 10:46:56,375 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-xc/1.7.1/jackson-xc-1.7.1.pom
+2018-05-16 10:46:58,245 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/junit/junit/4.8.2/junit-4.8.2.jar
+2018-05-16 10:47:00,040 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/com/sun/jersey/jersey-server/1.8/jersey-server-1.8.jar
+2018-05-16 10:47:01,905 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/asm/asm/3.1/asm-3.1.jar
+2018-05-16 10:47:03,486 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/com/sun/jersey/jersey-core/1.8/jersey-core-1.8.jar
+2018-05-16 10:47:05,450 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/com/sun/jersey/jersey-json/1.8/jersey-json-1.8.jar
+2018-05-16 10:47:07,169 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/org/codehaus/jettison/jettison/1.1/jettison-1.1.jar
+2018-05-16 10:47:09,121 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar
+2018-05-16 10:47:10,781 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.jar
+2018-05-16 10:47:12,635 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/javax/activation/activation/1.1/activation-1.1.jar
+2018-05-16 10:47:14,372 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/org/codehaus/jackson/jackson-core-asl/1.7.1/jackson-core-asl-1.7.1.jar
+2018-05-16 10:47:16,190 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/org/codehaus/jackson/jackson-mapper-asl/1.7.1/jackson-mapper-asl-1.7.1.jar
+2018-05-16 10:47:18,216 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/org/codehaus/jackson/jackson-jaxrs/1.7.1/jackson-jaxrs-1.7.1.jar
+2018-05-16 10:47:20,415 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/org/codehaus/jackson/jackson-xc/1.7.1/jackson-xc-1.7.1.jar
+2018-05-16 10:47:20,801 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.8.2/junit-4.8.2.jar
+2018-05-16 10:47:23,057 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.8.2/junit-4.8.2.jar
+2018-05-16 10:47:23,430 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/1.8/jersey-server-1.8.jar
+2018-05-16 10:47:26,225 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/1.8/jersey-server-1.8.jar
+2018-05-16 10:47:26,592 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/asm/asm/3.1/asm-3.1.jar
+2018-05-16 10:47:26,990 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/asm/asm/3.1/asm-3.1.jar
+2018-05-16 10:47:27,344 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/jersey/jersey-core/1.8/jersey-core-1.8.jar
+2018-05-16 10:47:28,883 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/jersey/jersey-core/1.8/jersey-core-1.8.jar
+2018-05-16 10:47:29,250 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/jersey/jersey-json/1.8/jersey-json-1.8.jar
+2018-05-16 10:47:29,919 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/jersey/jersey-json/1.8/jersey-json-1.8.jar
+2018-05-16 10:47:30,267 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jettison/jettison/1.1/jettison-1.1.jar
+2018-05-16 10:47:30,738 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jettison/jettison/1.1/jettison-1.1.jar
+2018-05-16 10:47:31,084 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar
+2018-05-16 10:47:33,202 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar
+2018-05-16 10:47:33,553 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.jar
+2018-05-16 10:47:34,028 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.jar
+2018-05-16 10:47:34,358 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/activation/activation/1.1/activation-1.1.jar
+2018-05-16 10:47:34,806 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/activation/activation/1.1/activation-1.1.jar
+2018-05-16 10:47:35,154 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.7.1/jackson-core-asl-1.7.1.jar
+2018-05-16 10:47:35,758 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.7.1/jackson-core-asl-1.7.1.jar
+2018-05-16 10:47:36,117 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.7.1/jackson-mapper-asl-1.7.1.jar
+2018-05-16 10:47:37,318 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.7.1/jackson-mapper-asl-1.7.1.jar
+2018-05-16 10:47:37,676 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-jaxrs/1.7.1/jackson-jaxrs-1.7.1.jar
+2018-05-16 10:47:38,027 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-jaxrs/1.7.1/jackson-jaxrs-1.7.1.jar
+2018-05-16 10:47:38,368 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-xc/1.7.1/jackson-xc-1.7.1.jar
+2018-05-16 10:47:38,744 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-xc/1.7.1/jackson-xc-1.7.1.jar
+2018-05-16 10:47:44,897 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.pom
+2018-05-16 10:47:45,253 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.pom
+2018-05-16 10:47:50,765 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RESTfulExample/src/main/java
+2018-05-16 10:47:50,766 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RESTfulExample/src/main/resources
+2018-05-16 10:47:50,767 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RESTfulExample/src/test/java
+2018-05-16 10:47:51,581 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 103 sec
+2018-05-16 10:47:52,963 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-16 10:47:53,003 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-16 10:47:53,008 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-16 10:47:53,009 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pradhi\workspace-jee-neon3_MAY2018\RESTfulExample\src\test\resources
+2018-05-16 10:49:22,841 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:RESTfulExample:1.0-SNAPSHOT @ C:\Users\Pradhi\workspace-jee-neon3_MAY2018\005RESTfulExample\pom.xml.
+2018-05-16 10:49:24,218 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-16 10:49:24,220 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-16 10:49:24,223 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-16 10:49:24,223 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pradhi\workspace-jee-neon3_MAY2018\005RESTfulExample\src\test\resources
+2018-05-16 10:50:08,537 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-16 10:50:08,544 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-16 10:50:08,545 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-16 10:50:08,546 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pradhi\workspace-jee-neon3_MAY2018\005RESTfulExample\src\test\resources
+2018-05-16 10:50:18,288 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-16 10:50:18,292 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-16 10:50:18,293 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-16 10:50:18,294 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pradhi\workspace-jee-neon3_MAY2018\005RESTfulExample\src\test\resources
+2018-05-16 10:50:45,557 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-16 10:50:45,559 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-16 10:50:45,560 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-16 10:50:45,562 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pradhi\workspace-jee-neon3_MAY2018\005RESTfulExample\src\test\resources
+2018-05-16 10:53:19,270 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:RESTfulExample:1.0-SNAPSHOT @ C:\Users\Pradhi\workspace-jee-neon3_MAY2018\005RESTfulExample\pom.xml.
+2018-05-16 10:53:21,352 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/com/sun/jersey/jersey-server/2.27/jersey-server-2.27.pom
+2018-05-16 10:53:23,348 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/2.27/jersey-server-2.27.pom
+2018-05-16 10:53:23,349 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-server:jar:2.27 is missing, no dependency information available
+2018-05-16 10:53:27,078 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/com/sun/jersey/jersey-server/2.27/jersey-server-2.27.jar
+2018-05-16 10:53:28,502 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/2.27/jersey-server-2.27.jar
+2018-05-16 10:53:28,548 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.jersey:jersey-server:jar:2.27 is missing, no dependency information available
+2018-05-16 10:53:29,330 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-16 10:53:29,332 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-16 10:53:29,334 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-16 10:53:29,335 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pradhi\workspace-jee-neon3_MAY2018\005RESTfulExample\src\test\resources
+2018-05-16 10:53:29,336 [Worker-38] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of 005RESTfulExample
+2018-05-16 10:53:29,337 [Worker-38] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for 005RESTfulExample
+2018-05-16 10:53:29,345 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-16 10:54:51,452 [Worker-44] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:RESTfulExample:1.0-SNAPSHOT @ C:\Users\Pradhi\workspace-jee-neon3_MAY2018\005RESTfulExample\pom.xml.
+2018-05-16 10:54:52,067 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-16 10:54:52,071 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-16 10:54:52,073 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-16 10:54:52,074 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pradhi\workspace-jee-neon3_MAY2018\005RESTfulExample\src\test\resources
+2018-05-16 10:54:52,074 [Worker-44] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of 005RESTfulExample
+2018-05-16 10:54:52,074 [Worker-44] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for 005RESTfulExample
+2018-05-16 10:54:52,079 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-16 10:54:53,289 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-16 10:54:53,290 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-16 10:54:53,291 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-16 10:54:53,292 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pradhi\workspace-jee-neon3_MAY2018\005RESTfulExample\src\test\resources
+2018-05-16 10:57:28,843 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-16 10:57:28,845 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-16 10:57:28,847 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-16 10:57:28,850 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pradhi\workspace-jee-neon3_MAY2018\005RESTfulExample\src\test\resources
+2018-05-16 11:01:43,308 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-16 11:01:43,309 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-16 11:01:43,310 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-16 11:01:43,312 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pradhi\workspace-jee-neon3_MAY2018\005RESTfulExample\src\test\resources

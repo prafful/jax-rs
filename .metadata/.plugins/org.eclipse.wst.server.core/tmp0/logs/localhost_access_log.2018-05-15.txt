@@ -49,3 +49,13 @@
 0:0:0:0:0:0:0:1 - - [15/May/2018:17:36:20 +0530] "GET /004CRUDJerseyFriends/restapi/friends/getall HTTP/1.1" 500 1039
 0:0:0:0:0:0:0:1 - - [15/May/2018:17:36:59 +0530] "GET /004CRUDJerseyFriends/restapi/friends/getall HTTP/1.1" 500 1039
 0:0:0:0:0:0:0:1 - - [15/May/2018:17:37:05 +0530] "GET /004CRUDJerseyFriends/restapi/friends/getall HTTP/1.1" 500 1039
+127.0.0.1 - - [15/May/2018:17:37:26 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [15/May/2018:17:37:26 +0530] "GET /004CRUDJerseyFriends/ HTTP/1.1" 404 993
+0:0:0:0:0:0:0:1 - - [15/May/2018:17:37:32 +0530] "GET /004CRUDJerseyFriends/restapi/friends/getall HTTP/1.1" 500 1039
+0:0:0:0:0:0:0:1 - - [15/May/2018:17:43:48 +0530] "GET /004CRUDJerseyFriends/restapi/friends/getall HTTP/1.1" 500 6938
+0:0:0:0:0:0:0:1 - - [15/May/2018:17:46:14 +0530] "GET /004CRUDJerseyFriends/restapi/friends/getall HTTP/1.1" 500 7998
+0:0:0:0:0:0:0:1 - - [15/May/2018:17:51:14 +0530] "GET /004CRUDJerseyFriends/restapi/friends/getall HTTP/1.1" 500 7998
+0:0:0:0:0:0:0:1 - - [15/May/2018:17:53:04 +0530] "GET /004CRUDJerseyFriends/restapi/friends/getall HTTP/1.1" 500 4484
+127.0.0.1 - - [15/May/2018:17:55:04 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [15/May/2018:17:55:05 +0530] "GET /004CRUDJerseyFriends/ HTTP/1.1" 404 993
+0:0:0:0:0:0:0:1 - - [15/May/2018:17:55:20 +0530] "GET /004CRUDJerseyFriends/restapi/friends/getall HTTP/1.1" 500 1039

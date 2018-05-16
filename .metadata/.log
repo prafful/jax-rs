@@ -79,3 +79,247 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.wst.server.core 4 0 2018-05-15 17:21:51.234
 !MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/jersey-media-json-jackson-2.27.jar. May be locked by another process.
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2018-05-15 17:53:24.670
+!MESSAGE Publishing failed with multiple errors
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-15 17:53:24.670
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/jackson-annotations-2.9.5.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-15 17:53:24.670
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/jackson-core-2.9.5.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-15 17:53:24.670
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/jackson-databind-2.9.5.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-15 17:53:24.670
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/jackson-jaxrs-base-2.9.5.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-15 17:53:24.670
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/jackson-jaxrs-json-provider-2.9.5.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-15 17:53:24.670
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/jackson-module-jaxb-annotations-2.9.5.jar. May be locked by another process.
+!SESSION 2018-05-16 09:56:49.497 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_161
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-05-16 09:57:22.054
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Pradhi'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.net 4 0 2018-05-16 09:57:34.510
+!MESSAGE WinHttp.DetectAutoProxyConfigUrl for wpad failed with error 'The Proxy Auto-configuration URL was not found.
+' #12180.
+
+!ENTRY org.eclipse.jface.text 2 0 2018-05-16 10:20:58.507
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-05-16 10:20:58.507
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.core.jobs 4 2 2018-05-16 10:21:52.183
+!MESSAGE An internal error occurred during: "Launching client".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:71)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-16 10:47:52.964
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-16 10:47:53.009
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-16 10:49:24.219
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-16 10:49:24.223
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-16 10:50:08.538
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-16 10:50:08.546
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-16 10:50:18.290
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-16 10:50:18.293
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-16 10:50:45.558
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-16 10:50:45.560
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-16 10:53:23.349
+!MESSAGE The POM for com.sun.jersey:jersey-server:jar:2.27 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-16 10:53:28.549
+!MESSAGE The POM for com.sun.jersey:jersey-server:jar:2.27 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-16 10:53:29.330
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-16 10:53:29.335
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-16 10:53:29.345
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jst.j2ee 4 0 2018-05-16 10:53:29.437
+!MESSAGE C:\Users\Pradhi\.m2\repository\com\sun\jersey\jersey-server\2.27\jersey-server-2.27.jar
+!STACK 0
+org.eclipse.jst.jee.archive.ArchiveOpenFailureException: C:\Users\Pradhi\.m2\repository\com\sun\jersey\jersey-server\2.27\jersey-server-2.27.jar
+	at org.eclipse.jst.j2ee.internal.componentcore.JavaEEBinaryComponentLoadAdapter.<init>(JavaEEBinaryComponentLoadAdapter.java:56)
+	at org.eclipse.jst.j2ee.internal.archive.JavaEEArchiveUtilities.openBinaryArchive(JavaEEArchiveUtilities.java:250)
+	at org.eclipse.jst.j2ee.internal.componentcore.JavaEEBinaryComponentHelper$ArchiveCache.openArchive(JavaEEBinaryComponentHelper.java:612)
+	at org.eclipse.jst.j2ee.internal.componentcore.JavaEEBinaryComponentHelper.openArchive(JavaEEBinaryComponentHelper.java:470)
+	at org.eclipse.jst.j2ee.internal.componentcore.JavaEEBinaryComponentHelper.getUniqueArchive(JavaEEBinaryComponentHelper.java:422)
+	at org.eclipse.jst.j2ee.internal.componentcore.JavaEEBinaryComponentHelper.getArchive(JavaEEBinaryComponentHelper.java:415)
+	at org.eclipse.jst.j2ee.internal.componentcore.JavaEEBinaryComponentHelper.getJavaEEQuickPeek(JavaEEBinaryComponentHelper.java:98)
+	at org.eclipse.jst.j2ee.project.JavaEEProjectUtilities.getJ2EEComponentType(JavaEEProjectUtilities.java:273)
+	at org.eclipse.jst.j2ee.internal.common.exportmodel.JEEHeirarchyExportParticipant.isChildModule(JEEHeirarchyExportParticipant.java:42)
+	at org.eclipse.wst.common.componentcore.internal.flat.GlobalHeirarchyParticipant.isChildModule(GlobalHeirarchyParticipant.java:41)
+	at org.eclipse.wst.common.componentcore.internal.flat.FlatVirtualComponent.isChildModule(FlatVirtualComponent.java:367)
+	at org.eclipse.wst.common.componentcore.internal.flat.FlatVirtualComponent.addUsedReferences(FlatVirtualComponent.java:305)
+	at org.eclipse.wst.common.componentcore.internal.flat.FlatVirtualComponent.treeWalk(FlatVirtualComponent.java:235)
+	at org.eclipse.wst.common.componentcore.internal.flat.FlatVirtualComponent.cacheResources(FlatVirtualComponent.java:188)
+	at org.eclipse.wst.common.componentcore.internal.flat.FlatVirtualComponent.fetchResources(FlatVirtualComponent.java:118)
+	at org.eclipse.wst.web.internal.deployables.FlatComponentDeployable.members(FlatComponentDeployable.java:227)
+	at org.eclipse.jst.j2ee.internal.deployables.J2EEFlexProjDeployable.members(J2EEFlexProjDeployable.java:267)
+	at org.eclipse.wst.server.core.internal.ModulePublishInfo.hasDelta(ModulePublishInfo.java:435)
+	at org.eclipse.wst.server.core.internal.ServerPublishInfo.hasDelta(ServerPublishInfo.java:440)
+	at org.eclipse.wst.server.core.internal.Server.hasPublishedResourceDelta(Server.java:1590)
+	at org.eclipse.wst.server.core.internal.Server$ResourceChangeJob$1.visit(Server.java:217)
+	at org.eclipse.wst.server.core.internal.Server.visitModule(Server.java:3055)
+	at org.eclipse.wst.server.core.internal.Server.visit(Server.java:3039)
+	at org.eclipse.wst.server.core.internal.Server$ResourceChangeJob.run(Server.java:228)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: java.io.FileNotFoundException: C:\Users\Pradhi\.m2\repository\com\sun\jersey\jersey-server\2.27\jersey-server-2.27.jar (The system cannot find the file specified)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(Unknown Source)
+	at java.util.zip.ZipFile.<init>(Unknown Source)
+	at org.eclipse.jst.common.internal.modulecore.util.ManifestUtilities$1.<init>(ManifestUtilities.java:259)
+	at org.eclipse.jst.common.internal.modulecore.util.ManifestUtilities.newZipFile(ManifestUtilities.java:259)
+	at org.eclipse.jst.jee.archive.internal.ArchiveUtil.newZipFile(ArchiveUtil.java:248)
+	at org.eclipse.jst.jee.archive.internal.ArchiveUtil.newZipFile(ArchiveUtil.java:234)
+	at org.eclipse.jst.j2ee.internal.componentcore.JavaEEBinaryComponentLoadAdapter.resetZipFile(JavaEEBinaryComponentLoadAdapter.java:67)
+	at org.eclipse.jst.j2ee.internal.componentcore.JavaEEBinaryComponentLoadAdapter.<init>(JavaEEBinaryComponentLoadAdapter.java:51)
+	... 24 more
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2018-05-16 10:53:30.527
+!MESSAGE Publishing failed with multiple errors
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 10:53:30.527
+!MESSAGE Error reading file C:\Users\Pradhi\.m2\repository\com\sun\jersey\jersey-server\2.27\jersey-server-2.27.jar
+!STACK 0
+java.io.FileNotFoundException: C:\Users\Pradhi\.m2\repository\com\sun\jersey\jersey-server\2.27\jersey-server-2.27.jar (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.wst.server.core.util.PublishHelper.copyFile(PublishHelper.java:501)
+	at org.eclipse.wst.server.core.util.PublishHelper.publishDelta(PublishHelper.java:435)
+	at org.eclipse.wst.server.core.util.PublishHelper.publishDelta(PublishHelper.java:459)
+	at org.eclipse.wst.server.core.util.PublishHelper.publishDelta(PublishHelper.java:459)
+	at org.eclipse.jst.server.tomcat.core.internal.PublishOperation2.publishDir(PublishOperation2.java:141)
+	at org.eclipse.jst.server.tomcat.core.internal.PublishOperation2.execute(PublishOperation2.java:82)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.performTasks(ServerBehaviourDelegate.java:1335)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:954)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3172)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:345)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 10:53:30.527
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/005RESTfulExample/WEB-INF/lib/jersey-server-1.8.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 10:53:30.527
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/005RESTfulExample/WEB-INF/lib/asm-3.1.jar. May be locked by another process.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-16 10:54:52.069
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-16 10:54:52.073
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-16 10:54:52.079
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-16 10:54:53.289
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-16 10:54:53.292
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-16 10:57:28.844
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-16 10:57:28.849
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-16 11:01:43.308
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-16 11:01:43.311
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2018-05-16 11:08:39.499
+!MESSAGE Publishing failed with multiple errors
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 11:08:39.499
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/aopalliance-repackaged-2.5.0-b32.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 11:08:39.499
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/hk2-api-2.5.0-b32.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 11:08:39.499
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/hk2-locator-2.5.0-b32.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 11:08:39.499
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/hk2-utils-2.5.0-b32.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 11:08:39.499
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/jackson-core-asl-1.9.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 11:08:39.499
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/jackson-mapper-asl-1.9.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 11:08:39.499
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/javassist-3.20.0-GA.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 11:08:39.499
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/javax.annotation-api-1.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 11:08:39.499
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/javax.inject-2.5.0-b32.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 11:08:39.499
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/javax.ws.rs-api-2.0.1.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 11:08:39.499
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/jaxb-api-2.2.7.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 11:08:39.499
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/jersey-client.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 11:08:39.499
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/jersey-common.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 11:08:39.499
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/jersey-container-servlet-core.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 11:08:39.499
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/jersey-container-servlet.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 11:08:39.499
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/jersey-entity-filtering-2.27.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 11:08:39.499
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/jersey-guava-2.25.1.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 11:08:39.499
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/jersey-json-1.19.4.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 11:08:39.499
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/jersey-server.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 11:08:39.499
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/jettison-1.1.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 11:08:39.499
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/org.osgi.core-4.2.0.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 11:08:39.499
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/osgi-resource-locator-1.0.1.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 11:08:39.499
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/persistence-api-1.0.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-05-16 11:08:39.499
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/validation-api-1.1.0.Final.jar. May be locked by another process.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-05-16 11:10:29.008
+!MESSAGE Could not delete C:/Users/Pradhi/workspace-jee-neon3_MAY2018/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/004CRUDJerseyFriends/WEB-INF/lib/jackson-all-1.9.0.jar. May be locked by another process.
+
+!ENTRY org.eclipse.jface.text 2 0 2018-05-16 12:55:18.915
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-05-16 12:55:18.916
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
