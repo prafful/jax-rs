@@ -121,3 +121,6 @@
 0:0:0:0:0:0:0:1 - - [16/May/2018:14:48:53 +0530] "POST /004CRUDJerseyFriends/rest/friend/update HTTP/1.1" 415 1092
 0:0:0:0:0:0:0:1 - - [16/May/2018:14:49:30 +0530] "POST /004CRUDJerseyFriends/rest/friend/update HTTP/1.1" 200 219
 0:0:0:0:0:0:0:1 - - [16/May/2018:14:49:54 +0530] "POST /004CRUDJerseyFriends/rest/friend/update HTTP/1.1" 200 221
+0:0:0:0:0:0:0:1 - - [16/May/2018:15:03:08 +0530] "DELETE /004CRUDJerseyFriends/rest/friend/3 HTTP/1.1" 200 179
+0:0:0:0:0:0:0:1 - - [16/May/2018:15:03:31 +0530] "DELETE /004CRUDJerseyFriends/rest/friend/4 HTTP/1.1" 200 176
+0:0:0:0:0:0:0:1 - - [16/May/2018:15:03:47 +0530] "DELETE /004CRUDJerseyFriends/rest/friend/1 HTTP/1.1" 200 172

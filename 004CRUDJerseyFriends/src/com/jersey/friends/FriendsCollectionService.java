@@ -57,6 +57,12 @@ public class FriendsCollectionService {
 		System.out.println("Updated: " + friend.location + " " + friend.getName()  + " "+ friend.getId());
 		return friend;
 	}
+
+	public void deleteFriend(int myid) {
+		// TODO Auto-generated method stub
+		friendsMap.remove(myid);
+	
+	}
 	
 	
 	

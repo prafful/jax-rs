@@ -2,6 +2,7 @@ package com.jersey.friends;
 
 import java.util.List;
 
+import javax.ws.rs.DELETE;
 import javax.ws.rs.GET;
 import javax.ws.rs.POST;
 import javax.ws.rs.Path;
@@ -56,7 +57,15 @@ public class FriendsController {
 	}
 	
 	//delete the friend
-	public void deleteFriend(){
+	@DELETE
+	@Path("/{id}")
+	@Produces(MediaType.APPLICATION_JSON)
+	public List<Friend> deleteFriend(@PathParam("id") int myid){
+		
+		friendsCollectionService.deleteFriend(myid);
+		List<Friend> allfriends = friendsCollectionService.getAllFriends();
+		return allfriends;
+		
 		
 	}
 

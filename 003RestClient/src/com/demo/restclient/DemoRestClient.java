@@ -23,7 +23,7 @@ public class DemoRestClient {
 		
 		WebTarget webTarget = client.target(getCustomURI());
 		
-		String response = webTarget.path("rest").path("first").path("welcome")
+		String response = webTarget.path("rest").path("friend").path("4")
 									.request()
 									.accept(MediaType.TEXT_PLAIN)
 									.get(Response.class)
@@ -31,9 +31,9 @@ public class DemoRestClient {
 		
 		System.out.println(response);
 		
-		String message = webTarget.path("rest").path("first").path("welcome")
+		String message = webTarget.path("rest").path("friend").path("getall")
 									.request()
-									.accept(MediaType.TEXT_PLAIN)
+									.accept(MediaType.APPLICATION_JSON)
 									.get(String.class)
 									.toString();
 	System.out.println(message);
@@ -42,7 +42,7 @@ public class DemoRestClient {
 		// TODO Auto-generated method stub
 		
 		return UriBuilder
-				.fromUri("http://localhost:8888/002RestAPIJerseyAgain").build();
+				.fromUri("http://localhost:8888/004CRUDJerseyFriends").build();
 		
 	
 	}
