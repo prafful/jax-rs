@@ -1,0 +1,18 @@
+package com.jersey.friends;
+
+import java.sql.Connection;
+
+import com.mysql.cj.xdevapi.Statement;
+
+public class FriendDAO {
+	
+	public FriendDAO(){
+		
+		Connection connection = null;
+		Statement statement = null;
+		
+		
+		
+	}
+
+}

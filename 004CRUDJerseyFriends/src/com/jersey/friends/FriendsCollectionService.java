@@ -1,16 +1,18 @@
 package com.jersey.friends;
 
+import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
 public class FriendsCollectionService {
 	
+	FriendDAO dao = new FriendDAO();
 	
 	//static HashMap<Integer, Friend> friendsMap = new getFriendsMap();
 	static HashMap<Integer, Friend> friendsMap = new HashMap<Integer, Friend>();
 	
-	public FriendsCollectionService() {
+	public FriendsCollectionService()  {
 		// TODO Auto-generated constructor stub
 		super();
 		
@@ -29,8 +31,11 @@ public class FriendsCollectionService {
 		friendsMap.put(5, f5);
 		
 		
+		
+		
 	}
 
+	
 	public List<Friend> getAllFriends() {
 		// TODO Auto-generated method stub
 		
@@ -61,6 +66,13 @@ public class FriendsCollectionService {
 	public void deleteFriend(int myid) {
 		// TODO Auto-generated method stub
 		friendsMap.remove(myid);
+		try {
+			System.out.println("Delete from db: " + dao);
+			dao.deleteFriend(myid);
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	
 	}
 	

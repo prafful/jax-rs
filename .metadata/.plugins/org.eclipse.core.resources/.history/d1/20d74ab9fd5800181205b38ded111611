@@ -1,0 +1,5 @@
+package com.jersey.friends;
+
+public class FriendDAO {
+
+}

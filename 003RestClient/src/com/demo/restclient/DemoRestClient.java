@@ -4,6 +4,7 @@ import java.net.URI;
 
 import javax.ws.rs.client.Client;
 import javax.ws.rs.client.ClientBuilder;
+import javax.ws.rs.client.Entity;
 import javax.ws.rs.client.WebTarget;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
@@ -22,19 +23,21 @@ public class DemoRestClient {
 		Client client = ClientBuilder.newClient(config);
 		
 		WebTarget webTarget = client.target(getCustomURI());
-		
-		String response = webTarget.path("rest").path("friend").path("4")
+/*		
+		String response = webTarget.path("rest").path("friend").path("update")
 									.request()
 									.accept(MediaType.TEXT_PLAIN)
 									.get(Response.class)
 									.toString();
 		
-		System.out.println(response);
+		System.out.println(response);*/
 		
-		String message = webTarget.path("rest").path("friend").path("getall")
+		Friend f = new Friend(6, "Gajju", "Jodhpur");
+		
+		String message = webTarget.path("rest").path("friend").path("update")
 									.request()
 									.accept(MediaType.APPLICATION_JSON)
-									.get(String.class)
+									.post(Entity.entity(f, MediaType.APPLICATION_JSON))
 									.toString();
 	System.out.println(message);
 	}
