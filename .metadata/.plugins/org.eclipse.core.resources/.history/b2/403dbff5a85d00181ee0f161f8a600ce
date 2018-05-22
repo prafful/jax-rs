@@ -1,0 +1,20 @@
+package com.jersey.friends;
+
+import com.mongodb.MongoClient;
+import com.mongodb.client.MongoDatabase;
+
+public class FriendDAOMongo {
+	
+	MongoClient mongoClient = null;
+	
+	public void connect(){
+		
+		mongoClient = new MongoClient();
+		MongoDatabase = mongoClient.getDatabase("friends");
+		System.out.println("Connecting to 'friends' database...");
+
+		
+	}
+	
+
+}

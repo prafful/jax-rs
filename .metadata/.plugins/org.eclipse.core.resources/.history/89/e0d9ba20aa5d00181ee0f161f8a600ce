@@ -1,0 +1,39 @@
+package com.jersey.friends;
+
+import org.bson.Document;
+
+import com.mongodb.MongoClient;
+import com.mongodb.client.MongoCollection;
+import com.mongodb.client.MongoDatabase;
+
+public class FriendDAOMongo {
+	
+	MongoClient mongoClient = null;
+	
+	public void connect(){
+		
+		mongoClient = new MongoClient();
+		MongoDatabase db = mongoClient.getDatabase("friends");
+		System.out.println("Connecting to 'friends' database...");
+		
+		MongoCollection<Document> collection = db.getCollection("details");
+		System.out.println("Collection: " + collection);
+
+		//Friend Insert One
+		129
+		      final Friend friend = new Friend();
+		130
+		      employee1.setEmployeeId("1001");
+		131
+		      employee1.setType("json");
+		132
+		      employee1.setFirstName("Jacob");
+		133
+		      employee1.setLastName("Matthews");
+
+
+		
+	}
+	
+
+}

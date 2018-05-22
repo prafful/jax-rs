@@ -8,6 +8,7 @@ import java.util.List;
 public class FriendsCollectionService {
 	
 	FriendDAO dao = new FriendDAO();
+	FriendDAOMongo friendMongo = new FriendDAOMongo();
 	
 	//static HashMap<Integer, Friend> friendsMap = new getFriendsMap();
 	static HashMap<Integer, Friend> friendsMap = new HashMap<Integer, Friend>();
@@ -50,6 +51,8 @@ public class FriendsCollectionService {
 
 	public Friend getFriendById(int myid) {
 		// TODO Auto-generated method stub
+		//insert into mongodb
+		friendMongo.insertFriend();
 		Friend f = friendsMap.get(myid);
 		System.out.println(f.id);
 		return f;
@@ -66,13 +69,15 @@ public class FriendsCollectionService {
 	public void deleteFriend(int myid) {
 		// TODO Auto-generated method stub
 		friendsMap.remove(myid);
-		try {
+		
+		//un-comment to delete from mysql database
+		/*try {
 			System.out.println("Delete from db: " + dao);
 			dao.deleteFriend(myid);
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		}
+		}*/
 	
 	}
 	

@@ -1,0 +1,16 @@
+package com.jersey.friends;
+
+import com.mongodb.MongoClient;
+
+public class FriendDAOMongo {
+	
+	MongoClient mongoClient = null;
+	
+	public void connect(){
+		
+		
+		
+	}
+	
+
+}
